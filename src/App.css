@@ -114,7 +114,7 @@ p {
   height: 40px;
   background-color: #0597F2;
   border-radius: 15px;
-  border-color: #80D0C7;
+  border-color: hsl(174, 100%, 96%);
   padding: 10px;
   cursor: pointer;
 }
